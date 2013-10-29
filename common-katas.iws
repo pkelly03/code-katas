@@ -4,7 +4,7 @@
     <list default="true" id="da561bb4-1e9d-421a-a308-08c3f3af2b11" name="Default" comment="" />
     <ignored path="common-katas.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382941434862" ignored="false" />
+    <file path="/Dummy.txt" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382980405793" ignored="false" />
     <file path="/fragment.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382905974682" ignored="false" />
     <file path="/IterativeReverseStringTest.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1379586544321" ignored="false" />
     <file path="/IterativeReverseString.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1379587533299" ignored="false" />
@@ -32,6 +32,9 @@
     <file path="/DeadlockAccount.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382969570960" ignored="false" />
     <file path="/BlockingQueueProducerConsumerApp.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382969658853" ignored="false" />
     <file path="/SemaphoreConnection.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382969776304" ignored="false" />
+    <file path="/Foo.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979478990" ignored="false" />
+    <file path="/Bar.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979401775" ignored="false" />
+    <file path="/BarInPackage.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979729215" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,73 +112,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExecutorServiceEx.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/ExecutorServiceEx.java">
+      <file leaf-file-name="Bar.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/accesscontrol/notpartofpackage/Bar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="28" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReEntrantRunner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/ReEntrantRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeadlockRunner.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/DeadlockRunner.java">
+      <file leaf-file-name="BarInPackage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/BarInPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="38" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2402#2703#0" expanded="true" />
-                <element signature="e#2692#2693#0" expanded="true" />
-                <element signature="e#2738#3040#0" expanded="true" />
-                <element signature="e#3029#3030#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeadlockAccount.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/DeadlockAccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+            <state line="6" column="33" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockingQueueProducerConsumerApp.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/BlockingQueueProducerConsumerApp.java">
+      <file leaf-file-name="Column.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#273#282#0" expanded="true" />
-                <element signature="e#393#684#0" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#719#1010#0" expanded="true" />
-                <element signature="e#999#1000#0" expanded="true" />
-              </folding>
+            <state line="6" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.18828452">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SemaphoreConnection.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/SemaphoreConnection.java">
+      <file leaf-file-name="Foo.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/Foo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.23076923">
-              <folding>
-                <element signature="e#1467#1616#0" expanded="true" />
-                <element signature="e#1601#1602#0" expanded="true" />
-              </folding>
+            <state line="2" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,10 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/com/kata/User.java" />
-        <option value="$PROJECT_DIR$/src/main/com/kata/TestingObjectsThatUseSingletons.java" />
-        <option value="$PROJECT_DIR$/src/test/com/kata/TestingSingletonsWithASeamTest.java" />
-        <option value="$PROJECT_DIR$/src/main/com/kata/DecoratorDesignPattern.java" />
         <option value="$PROJECT_DIR$/src/main/designpatterns/observer/weather/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/com/kata/designpatterns/observer/weather/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/designpatterns/strategy/MiniDuckSimulator1.java" />
@@ -211,6 +175,10 @@
         <option value="$PROJECT_DIR$/src/main/com/learning/concurrency/DeadlockAccount.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/concurrency/BlockingQueueProducerConsumerApp.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/concurrency/SemaphoreConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/App.java" />
+        <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/Foo.java" />
+        <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/accesscontrol/notpartofpackage/Bar.java" />
+        <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/BarInPackage.java" />
       </list>
     </option>
   </component>
@@ -338,7 +306,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="concurrency" />
+              <option name="myItemId" value="solid" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -377,11 +345,11 @@
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.kata" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kata" />
@@ -389,77 +357,15 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.kata" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/com/learning/solid/singleresponsibility" />
+      <recent name="$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kata" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreConnection">
-    <configuration default="false" name="GumballMonitorTestDrive" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learning.designpatterns.proxy.gumball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learning.designpatterns.proxy.gumball.GumballMonitorTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="common-katas" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="GumballMachineTestDrive" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learning.designpatterns.proxy.gumball.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learning.designpatterns.proxy.gumball.GumballMachineTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="common-katas" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MenuTestDrive" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.learning.designpatterns.composite.menu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.learning.designpatterns.composite.menu.MenuTestDrive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="common-katas" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.BarInPackage">
     <configuration default="false" name="ExecutorServiceEx" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" runner="idea">
         <pattern>
@@ -490,6 +396,78 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.learning.concurrency.SemaphoreConnection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="common-katas" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Bar" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learning.accesscontrol.accesscontrol.notpartofpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.learning.accesscontrol.accesscontrol.notpartofpackage.Bar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="common-katas" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.learning.accesscontrol.accesscontrol.notpartofpackage in common-katas" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learning.accesscontrol.accesscontrol.notpartofpackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="common-katas" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.learning.accesscontrol.accesscontrol.notpartofpackage" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-Xmx2048m -Xms1024m -Xrs -XX:MaxPermSize=512m -XX:+UseConcMarkSweepGC" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BarInPackage" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.learning.accesscontrol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.learning.accesscontrol.BarInPackage" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -590,19 +568,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GumballMonitorTestDrive" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ExecutorServiceEx" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SemaphoreConnection" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ExecutorServiceEx" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SemaphoreConnection" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Bar" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.com.learning.accesscontrol.accesscontrol.notpartofpackage in common-katas" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BarInPackage" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SemaphoreConnection" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ExecutorServiceEx" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MenuTestDrive" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GumballMonitorTestDrive" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BarInPackage" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Bar" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.com.learning.accesscontrol.accesscontrol.notpartofpackage in common-katas" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SemaphoreConnection" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ExecutorServiceEx" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -635,7 +613,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -657,7 +635,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -730,34 +708,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/com/learning/designpatterns/proxy/gumball/GumballMachineRemote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="17" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/learning/designpatterns/proxy/gumball/GumballMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/learning/designpatterns/composite/menu/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/com/learning/designpatterns/composite/menu/MenuComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="16" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/learning/designpatterns/composite/menu/Waitress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="51" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
@@ -851,11 +801,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/learning/concurrency/SemaphoreConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.23076923">
+        <state line="15" column="7" selection-start="380" selection-end="380" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1467#1616#0" expanded="true" />
             <element signature="e#1601#1602#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/accesscontrol/notpartofpackage/Bar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/learning/accesscontrol/BarInPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.18828452">
+          <folding />
         </state>
       </provider>
     </entry>
