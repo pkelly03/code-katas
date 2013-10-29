@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da561bb4-1e9d-421a-a308-08c3f3af2b11" name="Default" comment="" />
+    <list default="true" id="da561bb4-1e9d-421a-a308-08c3f3af2b11" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java" afterPath="$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-katas.ipr" afterPath="$PROJECT_DIR$/common-katas.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common-katas.iws" afterPath="$PROJECT_DIR$/common-katas.iws" />
+    </list>
     <ignored path="common-katas.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382980405793" ignored="false" />
+    <file path="/Dummy.txt" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1383039966408" ignored="false" />
     <file path="/fragment.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382905974682" ignored="false" />
     <file path="/IterativeReverseStringTest.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1379586544321" ignored="false" />
     <file path="/IterativeReverseString.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1379587533299" ignored="false" />
@@ -35,6 +39,7 @@
     <file path="/Foo.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979478990" ignored="false" />
     <file path="/Bar.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979401775" ignored="false" />
     <file path="/BarInPackage.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1382979729215" ignored="false" />
+    <file path="/Column.java" changelist="da561bb4-1e9d-421a-a308-08c3f3af2b11" time="1383039725139" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +138,7 @@
       <file leaf-file-name="Column.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.18828452">
+            <state line="6" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.18828452">
               <folding />
             </state>
           </provider>
@@ -155,7 +160,11 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -163,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/designpatterns/observer/weather/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/com/kata/designpatterns/observer/weather/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/designpatterns/strategy/MiniDuckSimulator1.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/designpatterns/observer/weather/WeatherData.java" />
@@ -179,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/Foo.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/accesscontrol/notpartofpackage/Bar.java" />
         <option value="$PROJECT_DIR$/src/main/com/learning/accesscontrol/BarInPackage.java" />
+        <option value="$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java" />
       </list>
     </option>
   </component>
@@ -196,7 +205,7 @@
       <profile-state />
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -327,13 +336,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -342,6 +354,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
@@ -613,9 +627,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -635,7 +649,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6710875" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -833,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/learning/solid/dependencyinversion/Column.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.18828452">
+        <state line="6" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="0.18828452">
           <folding />
         </state>
       </provider>
@@ -897,6 +911,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
